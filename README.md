@@ -48,8 +48,8 @@
 
 ```bash
 # 1. استنساخ المشروع
-git clone <repository-url>
-cd DSS
+git clone git@github.com:jamal-midani/dds.git
+cd dds
 
 # 2. تثبيت تبعيات PHP
 composer install
@@ -156,4 +156,3 @@ database/
 2. أضف الوظائف الجديدة
 3. راجع المتقدمين
 4. استخدم "دعم اتخاذ القرار" لاختيار الأفضل
-
